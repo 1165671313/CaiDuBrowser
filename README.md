@@ -1,2 +1,0 @@
-# CaiDuBrowser
-Self research
